@@ -34,7 +34,13 @@ pickle.load(open("models/my_model.pkl", "rb")
 
 * **README**: This is the file you're currently reading. You'll probably want to update this to have information about your specific API and how to use it.
 * **openapi.yaml**: You can relace this file with the specification file that we wrote on day one. ([The notebook's here if you need a refresher](https://www.kaggle.com/rtatman/careercon-intro-to-apis)).
-* **requirements.txt**: This file has information on what packages you use in your app. If you forget to include a package you import somewhere else, you'll get an error when you try to run your app. 
+* **requirements.txt**: This file has information on what packages you use in your app. It's currently empty becuase I didn't import any packages, but you'll need to include all the packages you use, one per line as show below. If you forget to include a package you import somewhere else, you'll get an error when you try to run your app.
+
+```
+numpy
+pandas
+future
+```
 
 ## File you don't need to edit
 

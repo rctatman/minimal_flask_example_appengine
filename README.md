@@ -1,4 +1,4 @@
-Note that this button will always open the repo "https://github.com/rctatman/minimal_flask_example_appengine" unless you fork this repo and replace that URL with a different one. You can clone any repo you like into your Cloud Shell environment by running  `git clone [GITHUB-URL]` from Cloud Shell. 
+Note that this button will always open the repo "https://github.com/rctatman/minimal_flask_example_appengine" unless you fork this repo and replace that URL in the button code with a different one. You can clone any repo you like into your Cloud Shell environment by running  `git clone [GITHUB-URL]` from Cloud Shell, however. 
 
 <p>
   <a target="__blank" href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/rctatman/minimal_flask_example_appengine&page=editor&open_in_editor=main.py"><img src="https://user-images.githubusercontent.com/1699357/33573952-bcc79140-d937-11e7-80e1-f3e8f3733624.png"/></a>

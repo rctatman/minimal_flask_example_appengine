@@ -42,7 +42,7 @@ pandas
 future
 ```
 
-## File you don't need to edit
+## Files you don't need to edit
 
 * **LICENSE**: This file is the license your code is released under. If you don't include a license, other folks won't be able to reuse your code. If you fork this repository for your own work, you'll need to keep the license. I've used Apache 2.0 here because that's the same license as public Kaggle Kernels. 
 * **app.yaml**: This file tells AppEngine which version of Python to use to run your app. You don't need to edit this.
